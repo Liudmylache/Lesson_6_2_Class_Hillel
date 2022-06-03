@@ -1,3 +1,11 @@
+/*
+Write a method to sum 2 ints
+Overload it so that you can sum long and long, double and double
+
+Return type - double for all methods
+ */
+
+
 public class Main {
     public static void main(String[] args) {
         Int i = new Int ();
